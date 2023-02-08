@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @mihirm3hub
+- 👋 Hi, Welcome to @mihirm3hub
+- 🌐 Webfolio link: https://mihirmainkar.contra.com/
 - 👀 I’m interested in Innovations
 - 🌱 I’m currently learning AI & AR
-- 📫 How to reach me? > mihirmainkarm3@gmail.com
+- 📫 How to reach me? > mainkar.mihir@gmail.com
 
 <!---
 mihirm3hub/mihirm3hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
