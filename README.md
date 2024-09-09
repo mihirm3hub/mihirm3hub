@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome!
 
-![I am Ma. Nikka S. Herrera ](https://cdn.glitch.global/8b469051-df79-49d9-92b9-310a86a7c09f/Graphic%20Designer%20LinkedIn.png?v=1725525585538)
+![I am Mihir M. Mainkar](https://cdn.glitch.global/8861eb70-411e-4bbd-a873-683141423c9f/bannerBlackGit.png?v=1725864647767)
 
 - 👋 Hi, Welcome to @mihirm3hub
 - 🌐 Webfolio link: https://mihirmainkar.contra.com/
