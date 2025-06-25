@@ -10,7 +10,7 @@ Community Management | Mobile and Web Development | Project Management
 
 
 - 👋 Hi, Welcome to @mihirm3hub
-- 🌐 Webfolio link: https://mihirmainkar.contra.com/
+- 🌐 Webfolio link: [https://mihirmainkar.contra.com/](https://contra.com/mihir_mainkar)
 - 👀 I’m interested in Innovations
 - 🌱 I’m currently learning AI & AR
 - 📫 How to reach me? > mainkar.mihir@gmail.com
