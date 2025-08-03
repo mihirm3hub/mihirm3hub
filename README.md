@@ -15,6 +15,7 @@ Immersive Tech Developer | Community Management | Mobile and Web Development | P
 - 🌱 I’m currently learning AI & AR
 - 📫 How to reach me? > mainkar.mihir@gmail.com
 
+[![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirm3hub)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 mihirm3hub/mihirm3hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
