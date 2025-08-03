@@ -16,6 +16,7 @@ Immersive Tech Developer | Community Management | Mobile and Web Development | P
 - 📫 How to reach me? > mainkar.mihir@gmail.com
 
 [![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirm3hub)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirm3hub&theme=dark" alt="niconielsen32" /></p>
 <!---
 mihirm3hub/mihirm3hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
