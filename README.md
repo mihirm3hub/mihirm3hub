@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome!
 
-![I am Mihir M. Mainkar](https://cdn.glitch.global/8861eb70-411e-4bbd-a873-683141423c9f/bannerBlackGit.png?v=1725864647767)
+![I am Mihir M. Mainkar](bannerBlackGit.png)
 
 **Skills:**  
 Immersive Tech Developer | Community Management | Mobile and Web Development | Project Management  
