@@ -20,9 +20,9 @@ bridging the gap between human vision 🧔🏽‍♂️ and machine intelligence
 
 
 - 👋 Hi, Welcome to @mihirm3hub
-- 🌐 Webfolio link: [https://bio.site/mihir.m](https://bio.site/mihir.m)
+- 🌐 Webfolio: [https://bio.site/mihir.m](https://bio.site/mihir.m)
 - 👀 I’m interested in Innovations
-- 🌱 I’m currently researching neural networks in NBV
+- 🌱 I’m currently researching [neural networks in NBV](https://github.com/mihirm3hub/sma-nbv-sim.git)
 - 📫 How to reach me? > mainkar.mihir@gmail.com
 
 <!--- <p>&nbsp;<img align="center" width="500" height="600" src="https://github-readme-stats.vercel.app/api?username=mihirm3hub&show_icons=true&theme=dark&locale=en" alt="niconielsen32" /></p> --->
@@ -31,5 +31,5 @@ bridging the gap between human vision 🧔🏽‍♂️ and machine intelligence
 
 <!---
 mihirm3hub/mihirm3hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
