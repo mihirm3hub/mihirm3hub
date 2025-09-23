@@ -27,7 +27,7 @@ bridging the gap between human vision 🧔🏽‍♂️ and machine intelligence
 
 <!--- <p>&nbsp;<img align="center" width="500" height="600" src="https://github-readme-stats.vercel.app/api?username=mihirm3hub&show_icons=true&theme=dark&locale=en" alt="niconielsen32" /></p> --->
 <p>&nbsp;<img align="center" width="500" height="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirm3hub&layout=compact&theme=dark" /> 
-</p> <p>&nbsp;<img align="center" width="500" height="600" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirm3hub&theme=dark" alt="niconielsen32" /></p> 
+</p> <p>&nbsp;<img align="center" width="500" height="600" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirm3hub&theme=dark" alt="mihirm3hub" /></p> 
 
 <!---
 mihirm3hub/mihirm3hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
