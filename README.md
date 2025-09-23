@@ -3,7 +3,8 @@
 ![I am Mihir M. Mainkar](bannerBlackGit.png)
 
 **Skills:**  
-🚀 Computer Vision | AI | Immersive Tech Developer
+🚀 Computer Vision | AI & Machine Learning Engineer | Immersive Tech Developer | AR/VR/XR Innovator | HPC 
+
 
 I’m a passionate Computer Vision expert with a strong background in AI, Machine Learning, and Immersive Technologies (AR/VR/MR).
 I specialise in building intelligent systems that can see, understand, and interact with the world — 
