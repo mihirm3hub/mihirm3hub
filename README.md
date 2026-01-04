@@ -49,7 +49,7 @@ Repositories here range from exploratory experiments to deployable pipelines.
 
 ---
 ### Selected repositories
-(handled by GitHub pinned section)
+(handled by GitHub pinned section) 👇
 <!---
 mihirm3hub/mihirm3hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to view your changes.
