@@ -9,7 +9,10 @@ This GitHub serves as a working lab. Repositories here reflect different stages 
 I value clarity in code, explicit assumptions, and finishing what is started. Most projects are shaped around making trade-offs visible rather than hiding complexity.
 
 ---
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 ### Areas of focus
 - Computer vision
 - Real-time inference pipelines
@@ -41,6 +44,13 @@ Pinned repositories highlight systems that are either production-oriented or tec
 <a href="mailto:mainkar.mihir@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"  height='65' width='65'/></a> &nbsp;
 <a href="https://bio.site/mihir.m" target="_blank"><img src="https://img.shields.io/badge/Website%20-%230A0A0A.svg?&style=flat&logo=devbox&logoColor=white"  height='80' width='80'></a>
 
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mihirm3hub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mihirm3hub&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<br />
 <!---
 mihirm3hub/mihirm3hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to view your changes.
