@@ -41,7 +41,7 @@ Pinned repositories highlight systems that are either production-oriented or tec
 
 ### Hi there 👋, Welcome!
 
-![I am Mihir M. Mainkar](bannerBlackGit.png)
+![I am Mihir M. Mainkar](bannerBlackGit (1).png)
 
 **Skills:**  
 🚀 Computer Vision | AI & Machine Learning Engineer | Immersive Tech Developer | AR/VR/XR Innovator | HPC 
