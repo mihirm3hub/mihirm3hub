@@ -1,5 +1,6 @@
 ## Hi, I’m Mihir Mainkar
 
+![I am Mihir M. Mainkar](bannerBlackGitnew.png)
 I work on software systems that are meant to be **run, maintained, and extended**, not just demonstrated.
 
 My focus is on computer vision and real-time pipelines, often operating under practical constraints such as limited compute, latency budgets, and deployment requirements. I’m particularly interested in client-side inference, 3D perception, and systems that sit close to the user or the rendering loop.
