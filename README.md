@@ -1,4 +1,4 @@
-![I am Mihir M. Mainkar](bannerBlackGitupdated.png)
+![I am Mihir M. Mainkar](Group.gif)
 
 I work on production-minded computer vision and real-time systems.  
 Repositories here range from exploratory experiments to deployable pipelines.
