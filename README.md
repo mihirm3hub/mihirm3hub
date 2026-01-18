@@ -13,21 +13,21 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" width="80"/>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" width="95"/>
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" width="95"/>
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" width="60"/>
+      <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white" width="80"/>
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" width="100"/>
-      <img src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white" width="75"/>
-      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black" width="70"/>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black"/>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" width="70"/>
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" width="45"/>
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" width="35"/>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"/>
     </td>
   </tr>
 </table>
